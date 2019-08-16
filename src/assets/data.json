@@ -1,0 +1,15 @@
+ [    { 
+    "title":"NodeJS",
+    "img":"assets/img/node-logo.jpg"
+   },{
+       "title":"Angular",
+       "img":"assets/img/angular2.png"
+   },
+   {"title":"Ionic",
+    "img":"assets/img/ionic.jpg"
+    },{
+        "title":"React",
+       "img":"assets/img/react.png"
+    }
+
+]

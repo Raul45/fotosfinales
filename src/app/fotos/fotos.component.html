@@ -1,0 +1,11 @@
+<p>
+  fotos works!
+</p>
+<div class="row">
+  <div class="col-md-4" *ngFor="let post of Users">
+      <div class="col-md-10">
+        <p>{{ post.title }}</p>
+        <img src='{{post.img}}' class="img-fluid">
+      </div>
+  </div>
+</div><br>
